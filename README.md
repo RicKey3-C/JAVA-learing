@@ -1,2 +1,2 @@
-# JAVA-learing
-To record RicKey3's JAVA learing 
+JAVA 基础
+主要涉及到一些JAVA的基础语法
