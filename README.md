@@ -1,2 +1,2 @@
 # JAVA-learing
-To recard RicKey3's JAVA learing 
+To record RicKey3's JAVA learing 
